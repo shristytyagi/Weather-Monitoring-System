@@ -30,3 +30,8 @@ Data Collection: Sensors gather data on temperature, humidity, pressure, light i
 Data Processing: Arduino processes the collected data.
 Data Transmission: Wi-Fi module sends the data to an IoT platform.
 Data Visualization: IoT platform displays real-time data.
+
+
+
+
+
