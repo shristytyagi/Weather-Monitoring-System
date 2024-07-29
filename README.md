@@ -19,7 +19,6 @@ Components:-
 Arduino Board: Central unit for processing data.
 
 Sensors:
-
 Temperature and Humidity Sensor (e.g., DHT22): Measures ambient temperature and humidity.
 Barometric Pressure Sensor (e.g., BMP180): Measures atmospheric pressure.
 Air Quality Sensor (e.g., MQ135): Detects air pollutants.
