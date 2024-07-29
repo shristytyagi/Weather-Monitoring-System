@@ -38,7 +38,7 @@ Data Processing: Arduino processes the collected data.
 Data Transmission: Wi-Fi module sends the data to an IoT platform.
 
 Data Visualization: IoT platform displays real-time data.
-
+![image](https://github.com/user-attachments/assets/16d7a38c-1e9f-4b4f-8c57-34b7f3a79854)
 
 
 
