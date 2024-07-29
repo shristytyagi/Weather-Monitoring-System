@@ -4,11 +4,10 @@ ID: CT08DS3787
 Domain: INTERNET OF THINGS
 Duration: July to August 2024
 
-Overview of the Project
+-------Overview of the Project------
 
-Project: HEALTH MONITORING WEARABLE DEVICE:
+Project: WEATHER MONITORING STATION
 
-Objective: Develop a wearable IoT device for continuous health monitoring,
-measuring vital signs such as heart rate, blood pressure, and activity
-levels. Integrate with a mobile app to provide personalized health
-insights and alerts.
+Objective: Build a weather monitoring station using IoT sensors to collect data on
+temperature, humidity, and atmospheric pressure. Display the collected data in
+real-time on a dashboard or mobile app.
